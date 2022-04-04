@@ -1,0 +1,17 @@
+.userList{
+ padding: 20px 100px;
+ display: flex;
+ justify-content: space-between;
+ align-content: space-between;
+ flex-wrap: wrap;
+ min-height: 900px;
+}
+.userList .item{
+ width: 150px;
+ height: 150px;
+ border: 1px solid #ccc;
+}
+
+.userList img{
+ width:100%;
+}
